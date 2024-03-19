@@ -27,8 +27,8 @@
 
    <h2 align="center">Skills 📖</h2>
 
-<img alt="illustrator" src="https://img.shields.io/badge/adobe%20illustrator%20-%20darkorange?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-<img alt="photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%20blue?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+   <img alt="illustrator" src="https://img.shields.io/badge/adobe%20illustrator%20-%20darkorange?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+   <img alt="photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%20blue?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
    <img alt="indesign" src="https://img.shields.io/badge/adobe%20indesign%20-%20%23562f44?style=for-the-badge&logo=adobe%20indesign&logoColor=white">
    <img alt="premiere" src="https://img.shields.io/badge/adobe%20premiere%20pro%20-%20purple?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white">
    <img alt="after effects" src="https://img.shields.io/badge/adobe%20after%20affects%20-%20darkblue?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white">
