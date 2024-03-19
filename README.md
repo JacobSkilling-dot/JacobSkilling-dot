@@ -15,10 +15,15 @@
 
    <br>
    <br>
-
-   <a href="https://jacobskilling.ca/contact-form](https://www.instagram.com/jacob_skilling_/">
+   
+   <a>
 <img alt="Static Badge" src="https://img.shields.io/badge/Instagram%20-%20%23DD2A7B?style=for-the-badge&logo=instagram&logoColor=white">
    </a>
+
+   <a>
+   <img alt="Static Badge" src="https://img.shields.io/badge/Slack%20-%20white?style=for-the-badge&logo=slack&logoColor=red&labelColor=white&color=red">
+   </a>
+
 
    
 
