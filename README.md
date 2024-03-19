@@ -9,9 +9,16 @@
    </a>
 
    <a href="https://jacobskilling.ca/contact-form">
-<img alt="Static Badge" src="https://img.shields.io/badge/Contact%20Me%20-%20red?style=for-the-badge&logo=gmail&logoColor=white">
-
+<img alt="Static Badge" src="https://img.shields.io/badge/Contact%20Me%20-%20red?style=for-the-badge&logo=mail&logoColor=white">
    </a>
+
+   <br>
+
+   <a href="https://jacobskilling.ca/contact-form](https://www.instagram.com/jacob_skilling_/">
+<img alt="Static Badge" src="https://img.shields.io/badge/Instagram%20-%20%23DD2A7B?style=for-the-badge&logo=instagram&logoColor=white">
+   </a>
+
+   
 
    </p>
 
