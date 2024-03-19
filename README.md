@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Jacob! 👋
 <p align="center">
  <a href="https://jacobskilling.ca/">
   <img alt="Static Badge" src="https://img.shields.io/badge/Visit%20Website%20-%20%23684A52%20?style=for-the-badge">
@@ -6,6 +6,10 @@
   
   <a href="https://www.linkedin.com/in/jacob-skilling/">
 <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn%20-%20blue?style=for-the-badge&logo=linkedin&logoColor=white">
+   </a>
+
+   <a href="https://jacobskilling.ca/contact-form">
+<img alt="Static Badge" src="https://img.shields.io/badge/Contact%20Me%20-%20red?style=for-the-badge&logo=gmail&logoColor=white">
 
    </a>
 
