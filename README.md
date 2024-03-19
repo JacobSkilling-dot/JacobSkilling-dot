@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCn2VFm7Fkd9cuSD6GIJw6mw?sub_confirmation=1">
-  <img alt="youtube subscribers" title="Visit My Website" src="[https://img.shields.io/youtube/channel/subscribers/UCn2VFm7Fkd9cuSD6GIJw6mw?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630](https://img.shields.io/badge/Visit%20Website%20-%20%23684A52%20?style=for-the-badge
-)/>
-  </a>
+ <a href="https://jacobskilling.ca/">
+  <img alt="mysite" title="Visit My Website" src="[https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Visit%20Website%20-%20%23684A52%20?style=for-the-badge
+)"/></a>
 
 
 <!--
