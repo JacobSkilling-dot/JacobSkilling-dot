@@ -1,4 +1,4 @@
-<center><h1>Hi there, I'm Jacob! 👋</h1></center>center>
+<h2 align="center"><img src="./media/waving-hand.gif" width="28"> Hello! I'm Jacob</h2>
 
 <p align="center">
  <a href="https://jacobskilling.ca/">
