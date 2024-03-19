@@ -4,8 +4,9 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Visit%20Website%20-%20%23684A52%20?style=for-the-badge">
  </a>
   
-  <a href="">
-  <img alt="" title="" src="">
+  <a href="https://www.linkedin.com/in/jacob-skilling/">
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn%20-%20blue?style=for-the-badge&logo=linkedin&logoColor=white">
+
    </a>
 
    </p>
