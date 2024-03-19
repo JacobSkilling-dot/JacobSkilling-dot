@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Jacob! 👋</h1>
+<center><h1>Hi there, I'm Jacob! 👋</h1></center>center>
 
 <p align="center">
  <a href="https://jacobskilling.ca/">
