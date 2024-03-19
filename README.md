@@ -1,7 +1,8 @@
 ### Hi there 👋
 
  <a href="https://jacobskilling.ca/">
-  <img alt="mysite" title="Visit My Website" src="image:https://img.shields.io/badge/Visit%20Website%20-%20%23684A52%20?style=for-the-badge[Static Badge]
+  <img alt="Static Badge" src="https://img.shields.io/badge/Visit%20Website%20-%20%23684A52%20?style=for-the-badge">
+
 "/></a>
 
 
