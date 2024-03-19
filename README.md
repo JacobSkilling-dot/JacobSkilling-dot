@@ -1,4 +1,4 @@
-<h2 align="center">Hello! I'm Jacob</h2>
+<h1 align="center">👋 Hello! I'm Jacob</h1>
 
 <p align="center">
  <a href="https://jacobskilling.ca/">
@@ -10,23 +10,31 @@
    </a>
 
    <a href="https://jacobskilling.ca/contact-form">
-<img alt="Static Badge" src="https://img.shields.io/badge/Contact%20Me%20-%20red?style=for-the-badge&logo=mail&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Contact%20Form%20-%20red?style=for-the-badge&logo=mail&logoColor=white">
    </a>
 
    <br>
    <br>
    
    <a>
-<img alt="Static Badge" src="https://img.shields.io/badge/Instagram%20-%20%23DD2A7B?style=for-the-badge&logo=instagram&logoColor=white">
+<img alt="insta" src="https://img.shields.io/badge/Instagram%20-%20%23DD2A7B?style=for-the-badge&logo=instagram&logoColor=white">
    </a>
 
    <a>
-   <img alt="Static Badge" src="https://img.shields.io/badge/Slack%20-%20white?style=for-the-badge&logo=slack&logoColor=red&labelColor=white&color=red">
+   <img alt="slack" src="https://img.shields.io/badge/Slack%20-%20white?style=for-the-badge&logo=slack&logoColor=red&labelColor=white&color=red">
    </a>
 
 
-   
+   <h2 align="center">Skills 📖</h2>
 
+<img alt="illustrator" src="https://img.shields.io/badge/adobe%20illustrator%20-%20darkorange?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+<img alt="photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%20blue?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+   <img alt="indesign" src="https://img.shields.io/badge/adobe%20indesign%20-%20%23562f44?style=for-the-badge&logo=adobe%20indesign&logoColor=white">
+   <img alt="premiere" src="https://img.shields.io/badge/adobe%20premiere%20pro%20-%20purple?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white">
+   <img alt="after effects" src="https://img.shields.io/badge/adobe%20after%20affects%20-%20darkblue?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white">
+   <img alt="figma" src="https://img.shields.io/badge/figma%20-%20black?style=for-the-badge&logo=figma&logoColor=white">
+   
+   </a>
    </p>
 
  
